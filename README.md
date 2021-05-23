@@ -1,4 +1,3 @@
-Data-Science-with-CPP
 The repository has four sections
 1. Data structures with C++
 2. Data processing with C++
