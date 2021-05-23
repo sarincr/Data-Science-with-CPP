@@ -1,2 +1,6 @@
-# Data-Structures-with-C-
-A data structure is a data organisation, control, and storage format that makes simple access and modification possible.
+Data-Science-with-CPP
+The repository has four sections
+1. Data structures with C++
+2. Data processing with C++
+3. Data Analytics with C++
+4. Data Visualisation with C++
